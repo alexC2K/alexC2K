@@ -3,15 +3,14 @@ I'm passionate about building reliable, scalable test automation solutions.
 
 I also wrote some articles, check it out.
 - [How to leverage your automated testing framework using advanced techniques with Playwright & TS (part I)](https://assist-software.net/blog/how-leverage-your-automated-testing-framework-using-advanced-techniques-playwright-ts-part-i)
-
+- [Leverage your automated testing framework using Playwright TS - Part II](https://assist-software.net/blog/automated-testing-framework-using-playwright-ts-part-ii)
+  
 #### 🛠️ Tech stack & Tools
 - **Frameworks:** Playwright, Selenium, Appium
 - **Languages:** TypeScript, C#, Python
 - **Testing:** API Testing, UI Testing, E2E Testing
 - **Tools & Platforms:** Postman, Allure, TestRail, Jira, GitHub Actions, REST APIs
 - **CI/CD:** GitHub Actions, Jenkins
-
-> “To err is human. To automate is divine.”
 
 <!--
 **alexC2K/alexC2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
